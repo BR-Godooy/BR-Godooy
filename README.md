@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/capa-victor-godoy.png" width="100%" alt="Victor Godoy — Cibersegurança em formação, com a logo da Lynfort. Conhecimento que se transforma em prática." />
+  <img src="assets/capa-victor-godoy-lynfort.png" width="100%" alt="Victor Godoy — Cibersegurança em formação, com a logo da Lynfort. Conhecimento que se transforma em prática." />
 </p>
 
 <h1 align="center">Olá, eu sou o Victor Godoy.</h1>
 
 <p align="center">
-  <img src="assets/apresentacao-animada.svg" width="720" alt="Estudante de Cibersegurança. Cibersegurança em formação. Aprendizado aplicado em laboratórios." />
+  <img src="assets/apresentacao-ciberseguranca.svg" width="720" alt="Estudante de Cibersegurança. Cibersegurança em formação. Aprendizado aplicado em laboratórios." />
 </p>
 
 <p align="center">
