@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o Victor Godoy.</h1>
 
 <p align="center">
-  <img src="assets/apresentacao-animada.svg" width="720" alt="Estudante de Sistemas de Informação. Cibersegurança em formação. Aprendizado aplicado em laboratórios." />
+  <img src="assets/apresentacao-animada.svg" width="720" alt="Estudante de Segurança da informação. Cibersegurança em formação. Aprendizado aplicado em laboratórios." />
 </p>
 
 <p align="center">
